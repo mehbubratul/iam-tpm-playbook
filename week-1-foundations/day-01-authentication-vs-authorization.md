@@ -123,5 +123,14 @@ A secure architecture separates both to maintain least privilege and reduce risk
 
 ---
 
+## 📌 Personal Reflection Section
+
+### What I Learned Today
+(Write in your own words)
+
+### What Is Still Confusing
+(Add questions for deeper research)
+
+---
 **Status:** Not Started
 **Time Spent:** 30 Minutes  
